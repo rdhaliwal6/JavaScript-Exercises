@@ -14,5 +14,29 @@
     "Died": "1959",
     "Father": "John de Milliano",
     "Mother": "Jamie van Damme"
+  },
+  {
+    "Name": "Patrick Star",
+    "Sex": "M",
+    "Born": "2000",
+    "Died": "2001",
+    "Father": "Geoff de Milliano",
+    "Mother": "Caire van Damme"
+  },
+  {
+    "Name": "Han Long",
+    "Sex": "M",
+    "Born": "1351",
+    "Died": "1565",
+    "Father": "Mack Milliano",
+    "Mother": "Jackie Damme"
+  },
+  {
+    "Name": "Raj Dhaliwal",
+    "Sex": "M",
+    "Born": "1999",
+    "Died": "2090",
+    "Father": "Sucha Dhaliwal",
+    "Mother": "Binder Dhaliwal"
   }
 ]
